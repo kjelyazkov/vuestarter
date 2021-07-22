@@ -1,5 +1,5 @@
 <template>
-  <div>Home</div>
+  <div class="bg-red-400"></div>
 </template>
 <script>
 export default {
